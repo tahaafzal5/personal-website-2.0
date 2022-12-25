@@ -9,25 +9,29 @@
 
 .work-experiences,
 .educations,
-.honors-and-awards {
+.honors-and-awards,
+.personal-projects {
     margin: 50px 30px 0px 0px;
 }
 
 .position-company,
-.degree-institution {
+.degree-institution,
+.project-role {
     margin: 30px 0px 0px 0px;
     display: flex;
     gap: 5px;
 }
 
 .position,
-.degree {
+.degree,
+.project {
     font-weight: 900;
     margin: 0px 0px 0px;
 }
 
 .company,
-.institution {
+.institution,
+.role {
     color: gray;
     margin: 0px 0px 0px;
 }

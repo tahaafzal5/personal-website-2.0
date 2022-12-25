@@ -7,7 +7,6 @@ function Navbar() {
         <section className="navbar">
             <Link className="navbar-link" to="/">Home</Link>
             <Link className="navbar-link" to="/resume">Resume</Link>
-            <Link className="navbar-link" to="/projects">Projects</Link>
         </section>
     );
 }

@@ -4,6 +4,7 @@ import WorkExperiences from "../WorkExperience/WorkExperiences.js";
 import HorizontalDivider from "../HorizontalDivider/HorizontalDivider.js";
 import Educations from "../Education/Educations.js";
 import HonorsAndAwards from "../HonorAndAward/HonorsAndAwards.js";
+import Projects from "../Projects/Projects.js";
 import "./Resume.css";
 
 function Resume() {
@@ -20,6 +21,10 @@ function Resume() {
             <HorizontalDivider />
 
             <HonorsAndAwards />
+
+            <HorizontalDivider />
+
+            <Projects />
         </section>
     );
 }
