@@ -1,10 +1,10 @@
 import React from "react";
 
 function Project(props) {
-    let project = props.project;
-    let role = props.role;
-    let date = props.date;
-    let description = props.description;
+    const project = props.project;
+    const role = props.role;
+    const date = props.date;
+    const description = props.description;
 
     return (
         <div className="personal-project">

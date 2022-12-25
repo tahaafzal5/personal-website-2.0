@@ -1,10 +1,10 @@
 import React from "react";
 
 function Education(props) {
-    let degree = props.degree;
-    let institution = props.institution;
-    let date = props.date;
-    let gpa = props.gpa;
+    const degree = props.degree;
+    const institution = props.institution;
+    const date = props.date;
+    const gpa = props.gpa;
 
     return (
         <div className="education">

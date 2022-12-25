@@ -1,10 +1,10 @@
 import React from "react";
 
 function WorkExperience(props) {
-    let position = props.position;
-    let company = props.company;
-    let date = props.date;
-    let description = props.description;
+    const position = props.position;
+    const company = props.company;
+    const date = props.date;
+    const description = props.description;
 
     return (
         <div className="work-experience">
