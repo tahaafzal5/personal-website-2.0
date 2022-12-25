@@ -3,8 +3,8 @@ import Project from "./Project.js";
 
 function Projects() {
     return (
-        <section class="personal-projects">
-            <h1>PROJECTS</h1>
+        <section className="personal-projects">
+            <h1 className="heading">PROJECTS</h1>
 
             <Project
                 project="Ridesio"

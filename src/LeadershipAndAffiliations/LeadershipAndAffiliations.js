@@ -4,7 +4,7 @@ import LeadershipOrAffiliation from "./LeadershipOrAffiliation.js";
 function LeadershipAndAffiliations() {
     return (
         <section className="leadership-and-affiliations">
-            <h1>LEADERSHIP AND AFFILIATIONS</h1>
+            <h1 className="heading">LEADERSHIP AND AFFILIATIONS</h1>
 
             <LeadershipOrAffiliation
                 organization="Office of Diversity and Inclusion,"
