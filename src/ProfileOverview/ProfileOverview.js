@@ -6,11 +6,11 @@ function ProfileOverview() {
     return (
         <section className="profile-overview">
             <div>
-                <img class="memoji" src={Memoji} alt="Taha's Memoji, in a circular frame, with shadow underneath as profile picture."></img>
+                <img className="memoji" src={Memoji} alt="Taha's Memoji, in a circular frame, with shadow underneath as profile picture."></img>
             </div>
-            <div class="name-title">
-                <p class="name">Taha Afzal</p>
-                <p class="title">Software Engineer</p>
+            <div className="name-title">
+                <p className="name">Taha Afzal</p>
+                <p className="title">Software Engineer</p>
             </div>
         </section>
     );
