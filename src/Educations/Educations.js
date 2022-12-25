@@ -3,7 +3,7 @@ import React from "react";
 function Educations() {
     return (
         <section className="educations">
-            <h1>EDUCATION</h1>
+            <h1 className="heading">EDUCATION</h1>
             <div className="education">
                 <div className="degree-institution">
                     <p className="degree">BA Computer Science and Data Science,</p>

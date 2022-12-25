@@ -3,7 +3,7 @@ import React from "react";
 function WorkExperiences(props) {
     return (
         <section className="work-experiences">
-            <h1 className="h1">WORK EXPERIENCE</h1>
+            <h1 className="heading">WORK EXPERIENCE</h1>
 
             <div className="work-experience">
                 <div className="position-company">
