@@ -5,11 +5,13 @@ import HorizontalDivider from "../HorizontalDivider/HorizontalDivider.js";
 import Educations from "../Education/Educations.js";
 import HonorsAndAwards from "../HonorAndAward/HonorsAndAwards.js";
 import Projects from "../Projects/Projects.js";
+import LeadershipAndAffiliations from "../LeadershipAndAffiliations/LeadershipAndAffiliations.js";
 import "./Resume.css";
 
 function Resume() {
     return (
         <section className="resume">
+
             <ProfileOverview />
 
             <WorkExperiences />
@@ -25,6 +27,11 @@ function Resume() {
             <HorizontalDivider />
 
             <Projects />
+
+            <HorizontalDivider />
+
+            <LeadershipAndAffiliations />
+
         </section>
     );
 }
