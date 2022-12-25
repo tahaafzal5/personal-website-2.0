@@ -8,10 +8,8 @@ function LeadershipOrAffiliation(props) {
 
     return (
         <div className="leadership-or-affiliation">
-            <div className="organization-role">
-                <div className="organization">{organization}</div>
-                <div className="role">{role}</div>
-            </div>
+            <div className="organization">{organization}</div>
+            <div className="role">{role}</div>
             <div className="date">{date}</div>
             <div className="description">
                 <ul className="description-points">

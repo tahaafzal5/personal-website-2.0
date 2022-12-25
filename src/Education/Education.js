@@ -8,10 +8,8 @@ function Education(props) {
 
     return (
         <div className="education">
-            <div className="degree-institution">
-                <div className="degree">{degree}</div>
-                <div className="institution">{institution}</div>
-            </div>
+            <div className="degree">{degree}</div>
+            <div className="institution">{institution}</div>
             <div className="date">{date}</div>
             <div className="gpa">{gpa}</div>
         </div>

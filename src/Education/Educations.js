@@ -7,7 +7,7 @@ function Educations() {
             <h1 className="heading">EDUCATION</h1>
 
             <Education
-                degree="BA Computer Science and Software Engineering,"
+                degree="BA Computer Science and Software Engineering"
                 institution="Augustana University"
                 date="Aug 2018 - May 2022"
                 gpa="GPA: 3.75"

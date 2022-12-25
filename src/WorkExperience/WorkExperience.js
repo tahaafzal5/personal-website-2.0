@@ -8,10 +8,8 @@ function WorkExperience(props) {
 
     return (
         <div className="work-experience">
-            <div className="position-company">
-                <div className="position">{position}</div>
-                <div className="company">{company}</div>
-            </div>
+            <div className="position">{position}</div>
+            <div className="company">{company}</div>
             <div className="date">{date}</div>
             <div className="description">
                 <ul className="description-points">

@@ -7,7 +7,7 @@ function WorkExperiences() {
             <h1 className="heading">WORK EXPERIENCE</h1>
 
             <WorkExperience
-                position="Software Engineer,"
+                position="Software Engineer"
                 company="Raven Industries, Inc."
                 date="May 2022 - Present"
                 description={[
@@ -21,7 +21,7 @@ function WorkExperiences() {
             />
 
             <WorkExperience
-                position="Software Engineer Intern,"
+                position="Software Engineer Intern"
                 company="Raven Industries, Inc."
                 date="Sep 2021 - May 2022"
                 description={[
@@ -32,7 +32,7 @@ function WorkExperiences() {
             />
 
             <WorkExperience
-                position="Software Engineer Intern,"
+                position="Software Engineer Intern"
                 company="Raven Industries, Inc."
                 date="May 2021 - Aug 2021"
                 description={[
@@ -43,7 +43,7 @@ function WorkExperiences() {
             />
 
             <WorkExperience
-                position="Data Analyst Intern,"
+                position="Data Analyst Intern"
                 company="Diamond Mowers"
                 date="Aug 2020 - May 2021"
                 description={[
@@ -54,7 +54,7 @@ function WorkExperiences() {
             />
 
             <WorkExperience
-                position="Software Engineer Intern,"
+                position="Software Engineer Intern"
                 company="Spidreye"
                 date="Feb 2020 - Jun 2020"
                 description={[

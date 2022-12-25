@@ -8,10 +8,8 @@ function Project(props) {
 
     return (
         <div className="personal-project">
-            <div className="project-role">
-                <div className="project">{project}</div>
-                <div className="role">{role}</div>
-            </div>
+            <div className="project">{project}</div>
+            <div className="role">{role}</div>
             <div className="date">{date}</div>
             <div className="description">
                 <ul className="description-points">

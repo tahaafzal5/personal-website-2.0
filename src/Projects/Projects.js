@@ -7,7 +7,7 @@ function Projects() {
             <h1 className="heading">PROJECTS</h1>
 
             <Project
-                project="Ridesio,"
+                project="Ridesio"
                 role="Developer"
                 date="Oct 2020 - Present"
                 description={[
@@ -18,7 +18,7 @@ function Projects() {
             />
 
             <Project
-                project="Sanford HealthHack,"
+                project="Sanford HealthHack"
                 role="Tech Lead"
                 date="Oct 2020 - Nov 2020"
                 description={[
@@ -29,7 +29,7 @@ function Projects() {
             />
 
             <Project
-                project="CodePath,"
+                project="CodePath"
                 role="Developer"
                 date="Sep 2020 - Present"
                 description={[

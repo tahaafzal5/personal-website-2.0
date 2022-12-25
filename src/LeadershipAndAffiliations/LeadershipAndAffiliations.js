@@ -7,7 +7,7 @@ function LeadershipAndAffiliations() {
             <h1 className="heading">LEADERSHIP AND AFFILIATIONS</h1>
 
             <LeadershipOrAffiliation
-                organization="Office of Diversity and Inclusion,"
+                organization="Office of Diversity and Inclusion"
                 role="Diversity Peer Mentor"
                 date="May 2020 - Aug 2021"
                 description={[
@@ -17,7 +17,7 @@ function LeadershipAndAffiliations() {
             />
 
             <LeadershipOrAffiliation
-                organization="Hult Prize,"
+                organization="Hult Prize"
                 role="Campus Director"
                 date="Oct 2019 - Aug 2021"
                 description={[
@@ -27,7 +27,7 @@ function LeadershipAndAffiliations() {
             />
 
             <LeadershipOrAffiliation
-                organization="CodePath,"
+                organization="CodePath"
                 role="Developer"
                 date="Sep 2020 – Dec 2020"
                 description={[
@@ -37,7 +37,7 @@ function LeadershipAndAffiliations() {
             />
 
             <LeadershipOrAffiliation
-                organization="Augustana eSports Club,"
+                organization="Augustana eSports Club"
                 role="Founder and President"
                 date="Sep 2019 - May 2021"
                 description={[

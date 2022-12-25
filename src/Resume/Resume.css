@@ -6,6 +6,11 @@
     margin: 50px 0px 0px 50px;
 }
 
+.left-side {
+    margin-left: -25px;
+    margin-right: 20px;
+}
+
 @media (max-width: 850px) {
     .resume {
         flex-wrap: wrap;
@@ -32,19 +37,22 @@
     margin: 50px 0px 0px 0px;
 }
 
-.position-company,
-.degree-institution,
-.project-role,
-.organization-role {
-    margin: 30px 0px 0px 0px;
-    display: flex;
-    gap: 5px;
+.honors-and-awards {
+    margin-bottom: 50px;
+}
+
+.work-experience,
+.education,
+.personal-project,
+.leadership-or-affiliation {
+    margin: 0px 0px 50px 0px;
 }
 
 .position,
 .degree,
 .project,
 .organization {
+    font-size: 20px;
     font-weight: 900;
     margin: 0px 0px 0px;
 }
@@ -52,6 +60,7 @@
 .company,
 .institution,
 .role {
+    font-size: 18px;
     color: gray;
     margin: 0px 0px 0px;
 }
@@ -64,9 +73,10 @@
 }
 
 .description {
-    max-width: 90%;
+    max-width: 100%;
 }
 
+.honor-or-award-points,
 .description-points {
     padding: 0px 0px 0px 20px;
     line-height: 1.5;
@@ -74,16 +84,11 @@
 
 .honor-or-award-points {
     column-count: 2;
+    margin-right: 10px;
 }
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 1160px) {
     .honor-or-award-points {
         column-count: 1;
-    }
-}
-
-@media screen and (min-width: 1800px) {
-    .honor-or-award-points {
-        column-count: 4;
     }
 }
