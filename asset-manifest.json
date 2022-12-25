@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal-website-2.0/static/css/main.7224c4e0.css",
+    "main.css": "/personal-website-2.0/static/css/main.4a7a318f.css",
     "main.js": "/personal-website-2.0/static/js/main.12a2d575.js",
     "static/js/787.c84af3e7.chunk.js": "/personal-website-2.0/static/js/787.c84af3e7.chunk.js",
     "static/media/download-logo.jpg": "/personal-website-2.0/static/media/download-logo.8b84b889e0298fb353cb.jpg",
@@ -11,12 +11,12 @@
     "static/media/github-logo-hover.jpg": "/personal-website-2.0/static/media/github-logo-hover.a620fcbb3011f3be87a3.jpg",
     "static/media/memoji.png": "/personal-website-2.0/static/media/memoji.9c0c4d8ae696811158d9.png",
     "index.html": "/personal-website-2.0/index.html",
-    "main.7224c4e0.css.map": "/personal-website-2.0/static/css/main.7224c4e0.css.map",
+    "main.4a7a318f.css.map": "/personal-website-2.0/static/css/main.4a7a318f.css.map",
     "main.12a2d575.js.map": "/personal-website-2.0/static/js/main.12a2d575.js.map",
     "787.c84af3e7.chunk.js.map": "/personal-website-2.0/static/js/787.c84af3e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7224c4e0.css",
+    "static/css/main.4a7a318f.css",
     "static/js/main.12a2d575.js"
   ]
 }
