@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/personal-website-2.0/static/css/main.40951ac4.css",
-    "main.js": "/personal-website-2.0/static/js/main.b40960a0.js",
-    "static/js/787.c84af3e7.chunk.js": "/personal-website-2.0/static/js/787.c84af3e7.chunk.js",
-    "static/media/download-logo.jpg": "/personal-website-2.0/static/media/download-logo.8b84b889e0298fb353cb.jpg",
-    "static/media/linkedin-logo.jpg": "/personal-website-2.0/static/media/linkedin-logo.a46a45ceba7e6a9709b8.jpg",
-    "static/media/download-logo-hover.jpg": "/personal-website-2.0/static/media/download-logo-hover.7320683eeb6574a0610b.jpg",
-    "static/media/linkedin-logo-hover.jpg": "/personal-website-2.0/static/media/linkedin-logo-hover.d862ed8edcd9f81bfb8d.jpg",
-    "static/media/resume-taha-afzal.pdf": "/personal-website-2.0/static/media/resume-taha-afzal.9c4f7a7c4d8baee8e96e.pdf",
-    "static/media/github-logo-hover.jpg": "/personal-website-2.0/static/media/github-logo-hover.a620fcbb3011f3be87a3.jpg",
-    "static/media/memoji.png": "/personal-website-2.0/static/media/memoji.9c0c4d8ae696811158d9.png",
-    "index.html": "/personal-website-2.0/index.html",
-    "main.40951ac4.css.map": "/personal-website-2.0/static/css/main.40951ac4.css.map",
-    "main.b40960a0.js.map": "/personal-website-2.0/static/js/main.b40960a0.js.map",
-    "787.c84af3e7.chunk.js.map": "/personal-website-2.0/static/js/787.c84af3e7.chunk.js.map"
+    "main.css": "/static/css/main.1d97d63c.css",
+    "main.js": "/static/js/main.493fbfad.js",
+    "static/js/787.c84af3e7.chunk.js": "/static/js/787.c84af3e7.chunk.js",
+    "static/media/download-logo.jpg": "/static/media/download-logo.8b84b889e0298fb353cb.jpg",
+    "static/media/linkedin-logo.jpg": "/static/media/linkedin-logo.a46a45ceba7e6a9709b8.jpg",
+    "static/media/download-logo-hover.jpg": "/static/media/download-logo-hover.7320683eeb6574a0610b.jpg",
+    "static/media/linkedin-logo-hover.jpg": "/static/media/linkedin-logo-hover.d862ed8edcd9f81bfb8d.jpg",
+    "static/media/resume-taha-afzal.pdf": "/static/media/resume-taha-afzal.9c4f7a7c4d8baee8e96e.pdf",
+    "static/media/github-logo-hover.jpg": "/static/media/github-logo-hover.a620fcbb3011f3be87a3.jpg",
+    "static/media/memoji.png": "/static/media/memoji.9c0c4d8ae696811158d9.png",
+    "index.html": "/index.html",
+    "main.1d97d63c.css.map": "/static/css/main.1d97d63c.css.map",
+    "main.493fbfad.js.map": "/static/js/main.493fbfad.js.map",
+    "787.c84af3e7.chunk.js.map": "/static/js/787.c84af3e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40951ac4.css",
-    "static/js/main.b40960a0.js"
+    "static/css/main.1d97d63c.css",
+    "static/js/main.493fbfad.js"
   ]
 }
