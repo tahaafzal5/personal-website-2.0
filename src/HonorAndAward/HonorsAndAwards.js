@@ -5,7 +5,7 @@ function HonorsAndAwards() {
         <section className="honors-and-awards">
             <h1 className="heading">HONORS AND AWARDS</h1>
 
-            <ul class="honor-or-award-points">
+            <ul className="honor-or-award-points">
                 {/* BUG: Couldn't further modularize this because of how I want the <li> items to be arranaged in columns */}
                 <li>Global Leader Scholar</li>
                 <li>Slate Ronning International Scholar</li>
