@@ -21,7 +21,7 @@ function ContactInfo() {
                 <a className="logo" href="http://github.com/tahaafzal5/" target="_blank">
                     <img className="github-logo" src={GitHubLogo} alt="GitHub logo." />
                 </a>
-                <a class="logo" href="http://linkedin.com/in/tahaafzal5/" target="_blank">
+                <a className="logo" href="http://linkedin.com/in/tahaafzal5/" target="_blank">
                     <img className="linkedin-logo" src={LinkedinLogo} alt="Linkedin logo." />
                 </a>
 
