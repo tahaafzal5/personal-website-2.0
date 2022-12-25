@@ -2,6 +2,7 @@ import Navbar from '../Navbar/Navbar.js';
 import Home from '../Home/Home.js';
 import Resume from '../Resume/Resume.js';
 import Projects from '../Projects/Projects.js';
+import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
