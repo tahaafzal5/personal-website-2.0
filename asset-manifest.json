@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b71d4ec.css",
-    "main.js": "/static/js/main.ec4e11aa.js",
+    "main.css": "/static/css/main.6f4e818f.css",
+    "main.js": "/static/js/main.8fb3246b.js",
     "react-syntax-highlighter/refractor-core-import.js": "/static/js/react-syntax-highlighter/refractor-core-import.2b1c4747.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.1c881294.chunk.js",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/static/js/react-syntax-highlighter_languages_refractor_actionscript.eb723bd8.chunk.js",
@@ -158,13 +158,13 @@
     "static/media/download-logo.jpg": "/static/media/download-logo.8b84b889e0298fb353cb.jpg",
     "static/media/linkedin-logo.jpg": "/static/media/linkedin-logo.a46a45ceba7e6a9709b8.jpg",
     "static/media/download-logo-hover.jpg": "/static/media/download-logo-hover.7320683eeb6574a0610b.jpg",
-    "static/media/resume-taha-afzal.pdf": "/static/media/resume-taha-afzal.5256410b3e42a9913e52.pdf",
     "static/media/linkedin-logo-hover.jpg": "/static/media/linkedin-logo-hover.d862ed8edcd9f81bfb8d.jpg",
+    "static/media/resume-taha-afzal.pdf": "/static/media/resume-taha-afzal.7e8aff3c8257e81065c1.pdf",
     "static/media/github-logo-hover.jpg": "/static/media/github-logo-hover.a620fcbb3011f3be87a3.jpg",
     "static/media/memoji.png": "/static/media/memoji.9c0c4d8ae696811158d9.png",
     "index.html": "/index.html",
-    "main.3b71d4ec.css.map": "/static/css/main.3b71d4ec.css.map",
-    "main.ec4e11aa.js.map": "/static/js/main.ec4e11aa.js.map",
+    "main.6f4e818f.css.map": "/static/css/main.6f4e818f.css.map",
+    "main.8fb3246b.js.map": "/static/js/main.8fb3246b.js.map",
     "refractor-core-import.2b1c4747.chunk.js.map": "/static/js/react-syntax-highlighter/refractor-core-import.2b1c4747.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.1c881294.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abap.1c881294.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.eb723bd8.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_actionscript.eb723bd8.chunk.js.map",
@@ -320,7 +320,7 @@
     "787.c84af3e7.chunk.js.map": "/static/js/787.c84af3e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b71d4ec.css",
-    "static/js/main.ec4e11aa.js"
+    "static/css/main.6f4e818f.css",
+    "static/js/main.8fb3246b.js"
   ]
 }
