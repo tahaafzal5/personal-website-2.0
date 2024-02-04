@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d39f9ba.css",
-    "main.js": "/static/js/main.b92a560b.js",
+    "main.css": "/static/css/main.3494f264.css",
+    "main.js": "/static/js/main.88edccab.js",
     "react-syntax-highlighter/refractor-core-import.js": "/static/js/react-syntax-highlighter/refractor-core-import.b02f34da.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.1c881294.chunk.js",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/static/js/react-syntax-highlighter_languages_refractor_actionscript.eb723bd8.chunk.js",
@@ -176,8 +176,10 @@
     "static/media/how-to-avoid-a-climate-disaster.jpg": "/static/media/how-to-avoid-a-climate-disaster.649155451f3f99c1756d.jpg",
     "static/media/scrum.jpg": "/static/media/scrum.8ff4fd41144a6c1c9a46.jpg",
     "static/media/the-subtle-art-of-not-giving-a-fuck.jpg": "/static/media/the-subtle-art-of-not-giving-a-fuck.dc6f2d7094fa5c2151d9.jpg",
+    "static/media/douglas-peucker-02.png": "/static/media/douglas-peucker-02.1d8045dcedfde2c26b41.png",
     "static/media/the-innovators.jpg": "/static/media/the-innovators.0a177f1ac5b9452992aa.jpg",
     "static/media/hooked.jpg": "/static/media/hooked.301a9bb37f4708bdd087.jpg",
+    "static/media/douglas-peucker-01.png": "/static/media/douglas-peucker-01.478b24c791449d14c88e.png",
     "static/media/what-if.jpg": "/static/media/what-if.0e44d96f4f844f1e1254.jpg",
     "static/media/elon-musk.jpg": "/static/media/elon-musk.25d38b5aea28dcaa2691.jpg",
     "static/media/outliers.jpg": "/static/media/outliers.ef8f80861494ef74b6ad.jpg",
@@ -190,8 +192,8 @@
     "static/media/the-art-of-thinking-clearly.jpg": "/static/media/the-art-of-thinking-clearly.b169c2fec7c61dc0c129.jpg",
     "static/media/memoji.png": "/static/media/memoji.9c0c4d8ae696811158d9.png",
     "index.html": "/index.html",
-    "main.1d39f9ba.css.map": "/static/css/main.1d39f9ba.css.map",
-    "main.b92a560b.js.map": "/static/js/main.b92a560b.js.map",
+    "main.3494f264.css.map": "/static/css/main.3494f264.css.map",
+    "main.88edccab.js.map": "/static/js/main.88edccab.js.map",
     "refractor-core-import.b02f34da.chunk.js.map": "/static/js/react-syntax-highlighter/refractor-core-import.b02f34da.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.1c881294.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abap.1c881294.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.eb723bd8.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_actionscript.eb723bd8.chunk.js.map",
@@ -347,7 +349,7 @@
     "787.c84af3e7.chunk.js.map": "/static/js/787.c84af3e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d39f9ba.css",
-    "static/js/main.b92a560b.js"
+    "static/css/main.3494f264.css",
+    "static/js/main.88edccab.js"
   ]
 }
