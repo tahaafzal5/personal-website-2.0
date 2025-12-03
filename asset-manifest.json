@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e153a6af.css",
-    "main.js": "/static/js/main.038907fa.js",
+    "main.js": "/static/js/main.b132a3e1.js",
     "react-syntax-highlighter/refractor-core-import.js": "/static/js/react-syntax-highlighter/refractor-core-import.cc6277a2.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/static/js/react-syntax-highlighter_languages_refractor_abap.5aedfaac.chunk.js",
     "react-syntax-highlighter_languages_refractor_abnf.js": "/static/js/react-syntax-highlighter_languages_refractor_abnf.4dcd7352.chunk.js",
@@ -313,7 +313,7 @@
     "static/media/automate-the-boring-stuff-with-python.jpg": "/static/media/automate-the-boring-stuff-with-python.6b79f2bc782cad709645.jpg",
     "static/media/born-a-crime.jpg": "/static/media/born-a-crime.dc65492623c80bed6a6a.jpg",
     "static/media/the-structure-of-scientific-revolutions.jpg": "/static/media/the-structure-of-scientific-revolutions.7ec03f017abdbe1e05f4.jpg",
-    "static/media/resume-taha-afzal.pdf": "/static/media/resume-taha-afzal.477b381314268d23063f.pdf",
+    "static/media/resume-taha-afzal.pdf": "/static/media/resume-taha-afzal.02f8399e221c9a3424b1.pdf",
     "static/media/refactoring.jpg": "/static/media/refactoring.5f2eec6f660af95d6bce.jpg",
     "static/media/how-to-avoid-a-climate-disaster.jpg": "/static/media/how-to-avoid-a-climate-disaster.649155451f3f99c1756d.jpg",
     "static/media/scrum.jpg": "/static/media/scrum.8ff4fd41144a6c1c9a46.jpg",
@@ -337,7 +337,7 @@
     "static/media/memoji.png": "/static/media/memoji.9c0c4d8ae696811158d9.png",
     "index.html": "/index.html",
     "main.e153a6af.css.map": "/static/css/main.e153a6af.css.map",
-    "main.038907fa.js.map": "/static/js/main.038907fa.js.map",
+    "main.b132a3e1.js.map": "/static/js/main.b132a3e1.js.map",
     "refractor-core-import.cc6277a2.chunk.js.map": "/static/js/react-syntax-highlighter/refractor-core-import.cc6277a2.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.5aedfaac.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abap.5aedfaac.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abnf.4dcd7352.chunk.js.map": "/static/js/react-syntax-highlighter_languages_refractor_abnf.4dcd7352.chunk.js.map",
@@ -620,6 +620,6 @@
   },
   "entrypoints": [
     "static/css/main.e153a6af.css",
-    "static/js/main.038907fa.js"
+    "static/js/main.b132a3e1.js"
   ]
 }
