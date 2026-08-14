@@ -8,11 +8,11 @@ function Projects() {
 
             <Project
                 project="Uni Go"
-                role="Founder and Developer"
+                role="Co-Founder"
                 date="Oct 2023 - Present"
                 description={[
-                    "Leading the re-branded development of Ridesio to bring an affordable, and communal mode of transportation to college campuses.",
-                    "Collaborating with 3 college campuses to integrate Uni Go, delivering a tailored solution that meets the unique needs of each college."
+                    "Co-founded the re-branded development of Ridesio to bring an affordable, and communal mode of transportation to college campuses.",
+                    "Partnering with 3 college campuses to integrate Uni Go, delivering a tailored solution that meets the unique needs of each college."
                 ]}
             />
 
