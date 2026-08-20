@@ -12,7 +12,7 @@ function About() {
                 Advocate for using technology to improve lives. Up-to-date with tech news.
             </p>
             <p className="about-text">
-                Curious. Dedicated. Team-player. Apple fan .
+                Curious. Dedicated. Team-player.
             </p>
             <p className="about-text">
                 Favorite YouTube Channel: <a href="https://www.youtube.com/@Computerphile" target="_blank" rel="noreferrer">Computerphile
