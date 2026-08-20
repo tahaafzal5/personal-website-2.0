@@ -11,7 +11,8 @@ function WorkExperiences() {
                 company="CNH"
                 date="Dec 2024 - Present"
                 description={[
-                    "Spearheading the development of Viper 4+'s embedded system software in an Agile environment, utilizing Qt and C++.",
+                    "Designing and implementing features connecting user - facing functionality with vehicle subsystems using Qt and C++ in an Agile team.",
+                    "Developing robust C++ interfaces that integrate the UI with underlying system components and enable reliable system functionality.",
                     "Debugging multi-threaded software using gdb-multiarch, analyzing system logs, and documenting code with Doxygen.",
                     "Improving release cycles by 20% by implementing and maintaining CI/CD pipelines, automating build, test, and release workflows."
                 ]}
@@ -24,7 +25,7 @@ function WorkExperiences() {
                 description={[
                     "Collaborated with the team to transition the Viper 4+ build system from qmake to CMake, reducing build times by 25%.",
                     "Implemented features to create field boundaries, ensuring efficient chemical usage and preventing accidental sprays in waterways.",
-                    "Enhanced a file conversion library, expanding support to JSON, CSV, and XML formats, ensuring 100% error-free conversions.",
+                    "Enhanced a file conversion library, expanding support to JSON, CSV, and XML formats, ensuring 99.9% error-free conversions.",
                     "Mentored an intern in implementing the Delta-T quality measurement system to assess spray effectiveness based on weather conditions."
                 ]}
             />
