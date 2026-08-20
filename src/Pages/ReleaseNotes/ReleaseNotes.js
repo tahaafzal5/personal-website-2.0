@@ -28,6 +28,14 @@ function ReleaseNotes() {
             </ul>
 
             <div>
+                <p className="version">v26.3.3</p>
+                <ul>
+                    <li>Fix typo.</li>
+                    <li>Update favorite YouTube channel.</li>
+                </ul>
+            </div>
+
+            <div>
                 <p className="version">v26.3.2</p>
                 <ul>
                     <li>Remove "Apple fan".</li>
