@@ -15,7 +15,7 @@ function About() {
                 Curious. Dedicated. Team-player.
             </p>
             <p className="about-text">
-                Favorite YouTube Channel: <a href="https://www.youtube.com/@Computerphile" target="_blank" rel="noreferrer">Computerphile
+                Favorite YouTube Channel: <a href="https://www.youtube.com/@CoreDumpped" target="_blank" rel="noreferrer">Core Dumped
                     &#8594;</a>
             </p>
         </section>
