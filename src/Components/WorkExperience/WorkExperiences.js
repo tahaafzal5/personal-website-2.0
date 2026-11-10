@@ -13,6 +13,8 @@ function WorkExperiences() {
                 description={[
                     "Designing and implementing features connecting user-facing functionality with vehicle subsystems using Qt and C++ in an Agile team.",
                     "Developing robust C++ interfaces that integrate the UI with underlying system components and enable reliable system functionality.",
+                    "Building embedded Linux images with Yocto, writing BitBake recipes and layers to package applications for target hardware.",
+                    "Programming vehicle ECUs by discovering controllers on the network with mDNS/Avahi service and flashing them over Apache Thrift RPC.",
                     "Debugging multi-threaded software using gdb-multiarch, analyzing system logs, and documenting code with Doxygen.",
                     "Improving release cycles by 20% by implementing and maintaining CI/CD pipelines, automating build, test, and release workflows."
                 ]}
