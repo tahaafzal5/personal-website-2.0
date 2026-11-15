@@ -28,6 +28,13 @@ function ReleaseNotes() {
             </ul>
 
             <div>
+                <p className="version">v26.4.1</p>
+                <ul>
+                    <li>Updated resume.</li>
+                </ul>
+            </div>
+
+            <div>
                 <p className="version">v26.4.0</p>
                 <ul>
                     <li>Updated resume.</li>
